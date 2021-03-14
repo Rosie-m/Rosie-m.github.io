@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+### _Education_
 
-You can use the [editor on GitHub](https://github.com/Rosie-m/luoxim.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Bachelor of Science, Computer Science**                     
+Expected Aug 2021</br>
+Simon Fraser University, Burnaby, BC</br>
+GPA: 4.00/4.33 </br>
+Relevant Courses: Data Mining (A+), Info Retrieval and Web Search (A+), Database System (Grade Not Released), Distributed System (Grade Not Released), Principles of Compiler Design (A), Operating System (A), Computing Algorithms (A), System & Network Security (A-), Numerical Analysis (A+). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Bachelor of Engineering, Computer Science & Technology**</br>     Expected Jun 2021</br> 
+Zhejiang University, Hangzhou</br> 
+GPA: 3.66/4.00 (83.76/100)</br> 
+Relevant Courses: Fundamentals of Software Engineering (95), C Programming (95), Object-Oriented Programming (84), Advanced Data Structure & Algorithm Analysis (80), Discrete Mathematics and Application (84).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### _RESEARCH INTERESTS_
+Data Mining & Machine Learning, Database System
 
-```markdown
-Syntax highlighted code block
+### _PROFESSIONAL EXPERIENCE_
+**Project Intern, Morgan Stanley** </br>                        Jul 2019 – Aug 2019
+- Created an application that converts the real-time states of components to a structured and readable format.
+- Followed the Agile Development process with four-week sprints followed by meetings in between
+- Delivered a demo presentation about the application in a global meeting.
 
-# Header 1
-## Header 2
-### Header 3
+### _ACADEMIC PROJECT_
 
-- Bulleted
-- List
+**Yet Another Storage Engine (YASE)**</br>   Sep 2020 – Present
+- Built a database management system, with a focus on the storage engine that is capable of processing transactions and queries. 
+- Designed benchmarks for evaluating the performance of the system.
+**The Polyglot: Tweet Data Extraction and Analysis**</br>        May 2020 - Aug 2020
+- Built a web-based system that uses multiple languages including JavaScript, Python and Go to extract and analyze the real-time Twitter data.
+- Created REST framework server in the backend and React apps in the frontend.
+-	Implemented parallel computing in Go and used foreign function library to call Go functions from Python.
+**Two Sigma Connect: Rental Listing Inquiries**</br>             Jan 2020 - Apr 2020
+- Coded in Python to implement data preprocessing, feature extraction and selection, classification with multiple classifiers including Decision Tree, Logistic Regression (LR), Support Vector Machine (SVM) and so on.
+-	Imported outer datasets of distances to nearby subways to create additional features.
+**Defense: Control-flow Hijacking Attacks Detection & Repair**</br> Jan 2020 – Apr 2020
+-	Designed a GCC plugin which detects and recovers control-hijacking attacks.
+-	Created memory logs by inserting Assembly codes. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### _VOLUNTEER EXPERIENCE_
+**Volunteer Tutoring** </br>                               Jul – Aug (2016, 2017, 2018)
+-	Tutored during summer breaks of three consecutive years.
+-	Conducted simple science experiments to reinforce my students’ knowledge from textbooks.
 
-[Link](url) and ![Image](src)
-```
+### _HONORS / AWARDS_
+Undergraduate Open Scholarship, 2020 Fall</br> 
+SFU-Zhejiang University DDP Entrance Award, 2019 Fall</br> 
+Zhejiang University Scholarship - Third Prize, 2017-2018</br> 
+Academic Excellence Award, 2017-2018 </br> 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### _SKILLS_
+**Technical Skills**
+-	Languages: C/C++ (Advanced), Python (Advanced), x86-64 Assembly, SQL, Go, Haskell 
+-	Operating Systems: Windows variants, Linux (Ubuntu) 
+-	Software: Matlab, Git, Wireshark, GDB
+**Transferable Skills**
+-	Excellent interpersonal, problem-solving skills with the ability to work independently and in a team environment.
+-	Strong scientific and technical acumen, with demonstrated interest and ability to make connections between science/technology and real-world concerns.
+-	Self-motivated with the ability to prioritize, meet deadlines, and manage changing priorities.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rosie-m/luoxim.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
