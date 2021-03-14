@@ -1,4 +1,4 @@
-### _Education_
+### _EDUCATION_
 
 **Bachelor of Science, Computer Science**                     
 Expected Aug 2021</br>
