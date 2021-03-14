@@ -1,39 +1,40 @@
-### _EDUCATION_
+## EDUCATION
 
-**Bachelor of Science, Computer Science**                     
-Expected Aug 2021</br>
-Simon Fraser University, Burnaby, BC</br>
-GPA: 4.00/4.33 </br>
+#### *Bachelor of Science, Computer Science*                    
+Expected Aug 2021  
+Simon Fraser University, Burnaby, BC  
+GPA: 4.00/4.33   
 Relevant Courses: Data Mining (A+), Info Retrieval and Web Search (A+), Database System (Grade Not Released), Distributed System (Grade Not Released), Principles of Compiler Design (A), Operating System (A), Computing Algorithms (A), System & Network Security (A-), Numerical Analysis (A+). 
 
-**Bachelor of Engineering, Computer Science & Technology**</br>     Expected Jun 2021</br> 
-Zhejiang University, Hangzhou</br> 
-GPA: 3.66/4.00 (83.76/100)</br> 
+#### *Bachelor of Engineering, Computer Science & Technology*
+Expected Jun 2021  
+Zhejiang University, Hangzhou   
+GPA: 3.66/4.00 (83.76/100)   
 Relevant Courses: Fundamentals of Software Engineering (95), C Programming (95), Object-Oriented Programming (84), Advanced Data Structure & Algorithm Analysis (80), Discrete Mathematics and Application (84).
 
 
-### _RESEARCH INTERESTS_
+## RESEARCH INTERESTS
 Data Mining & Machine Learning, Database System
 
-### _PROFESSIONAL EXPERIENCE_
-**Project Intern, Morgan Stanley** </br>                        Jul 2019 – Aug 2019
+## PROFESSIONAL EXPERIENCE
+#### *Project Intern, Morgan Stanley*</br> *Jul 2019 – Aug 2019*
 - Created an application that converts the real-time states of components to a structured and readable format.
 - Followed the Agile Development process with four-week sprints followed by meetings in between
 - Delivered a demo presentation about the application in a global meeting.
 
-### _ACADEMIC PROJECT_
+## ACADEMIC PROJECT
 
-**Yet Another Storage Engine (YASE)**</br>   Sep 2020 – Present
+#### *Yet Another Storage Engine (YASE)</br>   Sep 2020 – Present*
 - Built a database management system, with a focus on the storage engine that is capable of processing transactions and queries. 
 - Designed benchmarks for evaluating the performance of the system.
-**The Polyglot: Tweet Data Extraction and Analysis**</br>        May 2020 - Aug 2020
+#### *The Polyglot: Tweet Data Extraction and Analysis</br>        May 2020 - Aug 2020*
 - Built a web-based system that uses multiple languages including JavaScript, Python and Go to extract and analyze the real-time Twitter data.
 - Created REST framework server in the backend and React apps in the frontend.
 -	Implemented parallel computing in Go and used foreign function library to call Go functions from Python.
-**Two Sigma Connect: Rental Listing Inquiries**</br>             Jan 2020 - Apr 2020
+#### *Two Sigma Connect: Rental Listing Inquiries</br>             Jan 2020 - Apr 2020*
 - Coded in Python to implement data preprocessing, feature extraction and selection, classification with multiple classifiers including Decision Tree, Logistic Regression (LR), Support Vector Machine (SVM) and so on.
 -	Imported outer datasets of distances to nearby subways to create additional features.
-**Defense: Control-flow Hijacking Attacks Detection & Repair**</br> Jan 2020 – Apr 2020
+#### *Defense: Control-flow Hijacking Attacks Detection & Repair</br> Jan 2020 – Apr 2020*
 -	Designed a GCC plugin which detects and recovers control-hijacking attacks.
 -	Created memory logs by inserting Assembly codes. 
 
