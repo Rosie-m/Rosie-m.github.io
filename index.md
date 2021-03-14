@@ -1,5 +1,5 @@
 # Luoxi Meng
-+1 (778) 319-0372 (Canada)
++1 (778) 319-0372 (Canada)  
 luoxim@sfu.ca
 
 ## EDUCATION
