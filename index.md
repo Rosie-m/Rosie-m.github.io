@@ -1,14 +1,15 @@
 ## EDUCATION
+***Bachelor of Science, Computer Science***  
+***Simon Fraser University, Burnaby, BC***  
+*Expected Aug 2021*
 
-#### *Bachelor of Science, Computer Science*                    
-Expected Aug 2021  
-Simon Fraser University, Burnaby, BC  
 GPA: 4.00/4.33   
 Relevant Courses: Data Mining (A+), Info Retrieval and Web Search (A+), Database System (Grade Not Released), Distributed System (Grade Not Released), Principles of Compiler Design (A), Operating System (A), Computing Algorithms (A), System & Network Security (A-), Numerical Analysis (A+). 
 
-#### *Bachelor of Engineering, Computer Science & Technology*
-Expected Jun 2021  
-Zhejiang University, Hangzhou   
+***Bachelor of Engineering, Computer Science & Technology***  
+***Zhejiang University, Hangzhou***  
+*Expected Jun 2021*
+ 
 GPA: 3.66/4.00 (83.76/100)   
 Relevant Courses: Fundamentals of Software Engineering (95), C Programming (95), Object-Oriented Programming (84), Advanced Data Structure & Algorithm Analysis (80), Discrete Mathematics and Application (84).
 
@@ -17,7 +18,7 @@ Relevant Courses: Fundamentals of Software Engineering (95), C Programming (95),
 Data Mining & Machine Learning, Database System
 
 ## PROFESSIONAL EXPERIENCE
-#### *Project Intern, Morgan Stanley*
+***Project Intern, Morgan Stanley***  
 *Jul 2019 – Aug 2019*
 - Created an application that converts the real-time states of components to a structured and readable format.
 - Followed the Agile Development process with four-week sprints followed by meetings in between
